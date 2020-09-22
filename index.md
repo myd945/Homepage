@@ -40,7 +40,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 3.  **Qiuping Jiang**, Wei Gao, Shiqi Wang, Guanghui Yue, Feng Shao, Yo-Sung Ho, Sam Kwong, ["Blind image quality measurement by exploiting high order statistics with deep dictionary encoding network,"](https://ieeexplore.ieee.org/document/9055066/) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
-*  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) ***IEEE Transactions on Image Processing (TIP)***, 28(4): 1866-1881, Apr. 2019.
+4.*  **Qiuping Jiang**, Feng Shao, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho, ["Unified no-reference quality assessment of singly and multiply distorted stereoscopic images,"](https://ieeexplore.ieee.org/document/8540445) ***IEEE Transactions on Image Processing (TIP)***, 28(4): 1866-1881, Apr. 2019.
 
 *  **Qiuping Jiang**, Feng Shao, Weisi Lin, Gangyi Jiang, ["BLIQUE-TMI: Blind quality evaluator for tone-mapped images based on local and global feature analyses,"](https://ieeexplore.ieee.org/document/8214257/) ***IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)***, 29(2): 323-335, Feb. 2019.
 
