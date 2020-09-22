@@ -6,7 +6,7 @@
       <a href="http://eecs.nbu.edu.cn/">School of Information Science and Engineering</a><br>
       <a href="http://www.nbu.edu.cn/">Ningbo University</a><br>
       Email: jiangqiuping@nbu.edu.cn<br>
-      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]<br>
+      <a href="https://scholar.google.com/citations?user=PbPTiKYAAAAJ/">[Google Scholar]</a><a href="https://www.researchgate.net/profile/Jiang_Qiuping4/">[ResearchGate]</a><br>
       <span class="blue_2"><font size="4"><strong>Research Interests</strong></font></span><br>
       * Perceptual Image/Video Quality Assessment<br>
       * Visual Attention Modeling<br>
@@ -34,7 +34,7 @@ I am currently recruiting both Ph.D. and Master students. Requirements: 1) B.Sc.
 
 ## Publications
 ### IEEE Transactions
-*  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
+1  **Qiuping Jiang**, Zhenyu Peng, Feng Shao, Yabin Zhang, Weisi Lin, "StereoARS: Quality evaluation for stereoscopic image retargeting with binocular inconsistency detection," ***IEEE Transactions on Image Processing (TIP)***, submitted, 2020.
 
 *  **Qiuping Jiang**, Wei Zhou, Xiongli Chai, Guanghui Yue, Feng Shao, Zhibo Chen, ["A full-reference stereoscopic image quality measurement via hierarchical deep feature degradation fusion,"](https://ieeexplore.ieee.org/document/9127513) ***IEEE Transactions on Instrumentation and Measurement (TIM)***, accepted, 2020.
 
